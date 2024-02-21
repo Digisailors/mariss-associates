@@ -829,7 +829,7 @@ Header CSS
   padding-right: 15px;
   background: #0d1028;
   border-radius: 15px 15px 0 0;
-  width: 101%;
+  width: 104%;
 }
 
 .header-style-three .induxtro-nav nav .navbar-nav .nav-item:first-child a {
@@ -1023,7 +1023,7 @@ Main Banner CSS
 }
 
 .item-bg7 {
-  background-image: url(../../assets/img/banner1.jpg);
+  background-image: url(../../assets/img/front\ page\ 1.JPG);
 }
 
 .item-bg8 {
@@ -1031,7 +1031,11 @@ Main Banner CSS
 }
 
 .item-bg9 {
-  background-image: url(../../assets/img/main-banner9.jpg);
+  background-image: url(../../assets/img/front\ page\ 3.JPG);
+}
+
+.item-bg19 {
+  background-image: url(../../assets/img/front\ page\ 4.jpg);
 }
 
 .item-bg17 {
@@ -1044,6 +1048,15 @@ Main Banner CSS
 
 .item-bg19 {
   background-image: url(../../assets/img/3.jpg);
+}
+.item-bg20 {
+  background-image: url(../../assets/img/infra2/quality\ 11.jpg);
+}
+.item-bg21 {
+  background-image: url(../../assets/img/infra2/quality\ 12.jpg);
+}
+.item-bg22 {
+  background-image: url(../../assets/img/infra2/quality\ 13.jpg);
 }
 
 .main-banner-content {
@@ -1471,7 +1484,7 @@ About CSS
   position: absolute;
   left: 15px;
   top: 0;
-  background: #21A21B;
+  /* background: #21A21B; */
   width: 90%;
   height: 100%;
   z-index: -1;
