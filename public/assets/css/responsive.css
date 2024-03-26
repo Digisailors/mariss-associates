@@ -1893,6 +1893,7 @@
   }
   .induxtro-mobile-nav .logo a {
     display: block;
+    width:90%
   }
   .induxtro-mobile-nav nav .navbar-nav .nav-item a i {
     display: none;
