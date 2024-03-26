@@ -618,6 +618,9 @@ max-width: 100%;
 	align-self: center;
 }
 
+.navbar{
+  white-space: nowrap;
+}
 .induxtro-nav nav .navbar-nav .nav-item a:hover, .induxtro-nav nav .navbar-nav .nav-item a:focus, .induxtro-nav nav .navbar-nav .nav-item a.active {
   color: #21A21B;
 }
